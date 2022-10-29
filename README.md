@@ -24,10 +24,10 @@ My objective lies in grounding related research in real-world applications. In m
 
 </br>
 
-- 👨🏻‍💻 I’m currently working on Computer Vision;
+- 👨🏻‍💻 I’m currently working at the [VIP lab](https://uwaterloo.ca/vision-image-processing-lab/) at University of Waterloo, ON, Canada;
 - 🚀 I’m currently learning cool math stuff on [3B1B](https://www.youtube.com/c/3blue1brown);
 - 💬 Ask me about Computer Vision, Python and Cycling - I am happy to help;
-- 📝 I regulary write articles on [medium](https://medium.com/@harishprakashofficial);
+- 📝 I write articles on [medium](https://medium.com/@harishprakashofficial);
 - 📫 How to reach me: srinivas.harish27@gmail.com;
 - 📝 [Resume](https://drive.google.com/file/d/18wleViaZbJpJuafQYO6QJxAFIlZNvNI8/view?usp=sharing).
 
