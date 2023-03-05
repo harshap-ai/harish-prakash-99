@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=harish-prakash-99.harish-prakash-99)
 
-I am a Graduate Student at the ![University of Wwaterloo](https://uwaterloo.ca/systems-design-engineering/) 
+I am a Graduate Student at the [University of Waterloo](https://uwaterloo.ca/systems-design-engineering/) 
 
 **What defines me?**
 
