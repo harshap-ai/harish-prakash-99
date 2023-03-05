@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=harish-prakash-99.harish-prakash-99)
 
-I am a Graduate Student at the [University of Waterloo](https://uwaterloo.ca/systems-design-engineering/) 
+I am a Graduate Student at the [University of Waterloo](https://uwaterloo.ca/systems-design-engineering/), working at the Intersection of Sports Analytics and Vision (Pose Estimation, Action Recognition and 3D Representations). I research with Vision and Image Processing Group, co-supervised by Prof. [David Clausi](https://uwaterloo.ca/systems-design-engineering/profile/dclausi) and Prof. [John Zelek](https://uwaterloo.ca/systems-design-engineering/profile/jzelek)
 
 **What defines me?**
 
